@@ -12,7 +12,7 @@ The line graph illustrates the growth of major cybersecurity threats between 202
 This trend analysis demonstrates the evolving threat landscape and emphasizes the importance of proactive cybersecurity measures.
 
 
-https://github.com/vaishnaviwasule17/Cybersecurity/blob/main/Heatmap.png?raw=true
+![Image Alt](https://github.com/vaishnaviwasule17/Cybersecurity/blob/main/Heatmap.png?raw=true)
 
 # Correlation Heatmap Analysis
 
@@ -26,6 +26,6 @@ The correlation heatmap was used to identify relationships between website chara
 
 The heatmap provides valuable insights into feature relationships and supports effective feature selection for cybersecurity analytics.
 
-![Image Alt]https://github.com/vaishnaviwasule17/Cybersecurity/blob/main/Heatmap.png?raw=true
+![Image Alt](https://github.com/vaishnaviwasule17/Cybersecurity/blob/main/Heatmap.png?raw=true)
 
 
