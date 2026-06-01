@@ -12,7 +12,7 @@ The line graph illustrates the growth of major cybersecurity threats between 202
 This trend analysis demonstrates the evolving threat landscape and emphasizes the importance of proactive cybersecurity measures.
 
 
-![Image Alt](https://github.com/vaishnaviwasule17/Cybersecurity/blob/main/Heatmap.png?raw=true)
+![Image Alt](https://github.com/vaishnaviwasule17/Cybersecurity/blob/main/graph.png?raw=true)
 
 # Correlation Heatmap Analysis
 
